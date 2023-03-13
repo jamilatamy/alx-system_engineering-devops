@@ -1,2 +1,1 @@
-Shell Basic Readme 
-project dev
+task 0. Where am I
